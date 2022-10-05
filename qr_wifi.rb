@@ -1,4 +1,3 @@
-
 require "rqrcode"
 
 puts "You have chosen to generate a QR code to access a WIFI network"
